@@ -1,6 +1,7 @@
 # TSF_Transformer
 Time series forecasting using transformer architecture
-
+<strong><u>Preliminary Note:</strong></u>
+I strongly recommend reading the METHODS.md file before running this notebook to fully understand the scientific methodology and rationale behind the model design.
 __Introduction__
 
 This project is recommended to be executed using Google Colab.
