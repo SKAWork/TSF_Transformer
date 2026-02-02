@@ -9,6 +9,7 @@ Google Colab provides a preconfigured environment with GPU support, simplifies d
 It is recommended (but not strictly mandatory) to have a Comet ML account in order to enable experiment tracking, metric logging, and result visualization. When provided, Comet ML significantly improves reproducibility and monitoring of the training process.
 
 <strong><u>I. Execution on Google Colab</strong></u>
+
 **1) Opening the Notebook**
 
 The notebook can be opened directly in Google Colab either by uploading it manually or by opening it from the GitHub repository using the “Open in Colab” option.
@@ -37,6 +38,7 @@ During execution, Google Colab will automatically prompt the user to upload the 
 Once the dataset is uploaded and the optional Comet ML configuration is completed, the notebook can be executed sequentially. Training, validation, evaluation, and logging are triggered automatically by the execution flow.
 
 <strong><u>II. Local Execution (Optional)</strong></u>
+
 **1) Prerequisites**
 
 To run the notebook locally, the following prerequisites must be installed:
