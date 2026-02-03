@@ -45,7 +45,7 @@ Once the dataset is uploaded and the optional Comet ML configuration is complete
 
 To run the notebook locally, the following prerequisites must be installed:
 
-Python 3.9+ (or compatible version)
+Python 3.13.3 (or compatible version)
 
 PyTorch (with or without CUDA, depending on GPU availability)
 
